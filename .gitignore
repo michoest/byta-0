@@ -1,0 +1,9 @@
+.env
+client_secret_*.json
+node_modules
+credentials.json
+token.json
+db.db
+yarn.lock
+app/.vscode/extensions.json
+app/.vscode/settings.json
